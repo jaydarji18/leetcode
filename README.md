@@ -34,4 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jaydarji18/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jaydarji18/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jaydarji18/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
